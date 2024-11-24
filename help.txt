@@ -1,0 +1,11 @@
+***Zenith - a multi-purpose discord bot written in python by @Zenreon***
+
+**General Commands:**
+
+
+**Math Commands:**
+/calc [operation] --> *Calculates a simple math operation (addition, subtraction, multiplication, division)*
+
+**Fun Commands:**
+/insult [user] [value] --> *Insult a user. If no value is given, Zenith will choose a random insult. To view values, use* /insultlist 
+
